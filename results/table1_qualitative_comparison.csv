@@ -1,0 +1,6 @@
+Domain,Baseline (Raw),Condition A (spaCy),Condition B (DistilBERT)
+UK Politics,"blair, labour, mr, election, brown, minister, prime, party (n=64)","brown, blair, labour, milburn, peston, gordon, livingstone, party (n=45)","brown, labour, blair, gordon, mr, tony, party, treasury (n=68)"
+Football,"club, chelsea, united, arsenal, liverpool, league, game, manager (n=187)","chelsea, arsenal, mourinho, wenger, ferguson, barcelona, cole, united (n=70)","chelsea, liverpool, arsenal, united, real, manchester, ferguson, madrid (n=175)"
+Tennis,"roddick, open, seed, australian, match, set, nadal, tennis (n=87)","federer, hewitt, safin, lleyton, roger, dent, johansson, henman (n=29)","hewitt, davenport, mirza, fed, williams, serena, roger, federer (n=51)"
+Cinema & Oscars,"film, best, actor, films, director, awards, oscar, award (n=170)","hollywood, foxx, scorsese, swank, drake, eastwood, vera, staunton (n=196)","drake, vera, ray, eastwood, leigh, foxx, hollywood, staunton (n=66)"
+Stock Exchanges,"lse, boerse, deutsche, euronext, bid, exchange, takeover, london (n=25)","eu, lse, boerse, deutsche, euronext, european, europe, germany (n=66)","deutsche, boerse, euro, frankfurt, london, stock, boer, exchange (n=17)"
